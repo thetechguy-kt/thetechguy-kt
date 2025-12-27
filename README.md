@@ -1,7 +1,8 @@
 # 💫 About Me:
 -  Currently working on a Python-based Interview Queue Caller System, which involves building a practical application utilizing my knowledge of Python.<br>
 -  Actively looking to collaborate with others on developing Python Applications and building out robust Flask Server Applications.<br>
--  Currently focused on advancing my skills and knowledge in the Python Advance Level concepts.<br>I am currently learning and expanding my expertise in Python Advance Level.<br>
+-  Currently focused on advancing my skills and knowledge in the Python Advance Level concepts.<br>
+-  Currently learning and expanding my expertise in Python Advance Level.<br>
 -  You can ask me about anything in technical things and also about basic networking.<br>
 -  A fun fact about me is that I am really happy to help anyone and collaborate with anyone and am committed to giving my full efforts to any project.
 
