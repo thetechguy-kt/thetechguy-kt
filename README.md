@@ -1,4 +1,5 @@
 # 💫 About Me:
+-  Class 9 Student in Oman.
 -  Currently working on a Python-based SmartLab, which involves building a practical application utilizing my knowledge of Python.<br>
 -  Actively looking to collaborate with others on developing Python Applications and building out robust Flask Server Applications.<br>
 -  Currently focused on advancing my skills and knowledge in the Python Advance Level concepts.<br>
